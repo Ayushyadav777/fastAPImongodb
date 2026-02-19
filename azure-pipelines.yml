@@ -2,7 +2,7 @@ trigger:
 - main
 
 variables:
-  azureServiceConnectionId: '4dff4068-aedc-4ba8-b023-c117f1188546'
+  azureServiceConnectionId: 'a45b8a74-6ec7-4cd1-be26-baa9f8416d5c'
   webAppName: 'ayushtestapp'
   pythonVersion: '3.14'
 
